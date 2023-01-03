@@ -3,7 +3,7 @@ Analyzing financial records of a company
 
 ## Overview
  
-In this challenge, I'll be using the concepts I've learned to complete the required activity. This activity presents a real-world situation in which my newfound JavaScript skills will come in handy. I am tasked with creating code for analyzing the financial records of a company.
+In this challenge I am tasked with creating code for analyzing the financial records of a company.
 
 ## Instructions
 
